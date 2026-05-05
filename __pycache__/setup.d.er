@@ -1,0 +1,6 @@
+##[pylyzer] failed /home/mars/ros2_ws/src/ackermann_keyboard_teleop/setup.py 1777624823 774
+.___v_desugar_1: Never
+.find_packages: Never
+.setup: Never
+.package_name: {"ackermann_keyboard_teleop"}
+
